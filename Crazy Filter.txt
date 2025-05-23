@@ -17,6 +17,20 @@
 # hosts
 # Ads
 #AdBlock 3
+https://pagead2.googlesyndication.com
+https://ads.google.com
+https://ad.doubleclick.net
+https://static.doubleclick.net
+https://media.fastclick.net
+https://advice-ads.s3.amazonaws.com
+https://affiliationjs.s3.amazonaws.com
+https://ads.facebook.com
+https://ads-api.twitter.com
+https://ads.pinterest.com
+https://ads.reddit.com
+https://ads.youtube.com
+https://ads.tiktok.com
+
 ||d3ward.github.io##.adbox.banner_ads.adsbox
 ||d3ward.github.io##.textads
 ||/pagead.js$domain=d3ward.github.io
