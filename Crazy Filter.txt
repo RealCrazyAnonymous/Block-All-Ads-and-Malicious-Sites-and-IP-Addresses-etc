@@ -1,6 +1,6 @@
 ﻿# AdBlock by Crazy Anonymous
 
-# Expires: 30 Minutes or Less (Update Every 30 Minutes or Less)
+# Expires: 30 Minutes or Less (Update Every 30 Minutes or Less depending on time and day.)
 
 # If any issue, please email me (crazyanonymous@tuta.io)
 
