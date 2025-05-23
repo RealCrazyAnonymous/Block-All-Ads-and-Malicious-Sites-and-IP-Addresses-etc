@@ -14,6 +14,6 @@ My version is only suitable for (4.0.
 
 ## Reporting a Vulnerability
 
-If you have any issues, please let me know.
+If you have any issues, please email me.
 
-crazyanonymous@tuta.io
+<a href="mailto:crazyanonymous@tuta.io">E-Mail</a>
