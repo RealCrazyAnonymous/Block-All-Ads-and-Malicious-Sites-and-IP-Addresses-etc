@@ -767,3 +767,648 @@ https://t.btcland.xyz:443/announce # detected as suspicious
 https://tracker.lilithraws.cf:443/announce # duplicate of https://tracker.lilithraws.org:443/announce
 udp://www.torrent.eu.org:451/announce # duplicate of udp://tracker.torrent.eu.org:451/announce
 https://trackers.mlsub.net:443/announce # duplicate of https://tracker.mlsub.net:443/announce
+# Privacy
+.checkfront.com/lib/Control.Geocoder*.js$script
+.checkfront.com/reserve/lib/jquery.cookie*.js$script
+/fingerprintjs2$script
+/fp.js$script
+/loginmanager_sniff.js$script
+! ||dailykarma.io^$3p
+! ||appleid.cdn-apple.com$domain=~apple.com|~icloud.com|~x.com|~twitter.com
+||accessibly.app^$3p
+||assets.dailykarma.io^$3p
+||0dcde44a41.com^
+||1105media.com^$3p
+||2mdn.net^$3p
+||2o7.net^
+||7882f4ee63.com^
+||a2sky.com^$3p
+||ablestar.app^$3p
+||ad.exilio.net^
+||addthis.com^
+||adicio.com^$3p
+||adjust.com^$3p
+||adnxs.com^$3p
+||adsensecustomsearchads.com^
+||adserver.yahoo.com^
+||adsessionserv.com^
+||adskeeper.co.uk^$3p
+||advertising.com^$document
+||agilemeasure.com^$3p
+||alooma.com^$3p
+||amospalla.es^
+||animenewsnetwork.com/logger.performance^$1p
+||animenewsnetwork.com/sponsor/$1p
+||anlcld.com^
+||anyroad.com^$3p
+||aolcdn.com/ads/$3p,script
+||api.github.com/_private/browser/errors^
+||api.stacksocial.com^
+||app-measurement.com^
+||arc.io^
+||arctur.^$3p
+||askmediagroup.com^$3p
+||attn.tv^$3p
+||automizely.com^$3p
+||avada-tag-manager.firebaseapp.com^$3p
+||avada.io^$3p
+||b7b06aa9a2.com
+||backinstock.org^$3p
+||baidu.com^$3p
+||bbb.org^$3p
+||beddoe.com^$3p
+||beehaw.org^$3p
+||bestofmedia.com^$3p
+||beta-testing-shopify-tracker.s3.amazonaws.com^$3p
+||bf-ad.net^
+||bimbolive.com^$3p
+||bizzabo.com^$3p
+||blitzen.com^$3p
+||blogsmithmedia.com^$3p,xhr
+||bloomapp-production.herokuapp.com^$3p
+||boldapps.net^$3p
+||bookthatapp.com^$3p
+||booster3000.si^$3p
+||botframework.com^$3p
+||branch.io^$3p
+||budget.com^$3p
+||buymeacoffee.com^$3p
+||bytecache.ml^
+||calculoid.com^$3p,script
+||capturehighered.net^$3p
+||cbox.ws^$3p
+||cbsinteractive.com^$domain=~etonline.com
+! https://github.com/yokoffing/Betterfox/issues/322
+!||cdn.privacy.paramount.com^$3p
+||cdn.ravenjs.com^$3p,script
+||channelsight.com^$xhr
+||chatango.com^$3p
+||chatbro.com^$3p
+||chimpstatic.com^$3p
+||christianbook.com^$3p
+||cigevo.uno^$3p
+||cleantalk.org^
+||clipboardjs.com^$3p
+||cloudinary.com^$3p,~image
+||cnstrc.com^
+||coinmarketcap.com^$3p
+||concert.io^$3p
+||connect.getflowbox.com^$3p
+||conscent.in^$3p
+||consensu.org^$redirect=noopjs
+||contentpass.net^
+||coordinatedcub.com^$3p
+||custobar.com^$3p
+||crazyrocket.io^$3p
+||creditsyard.com^$3p
+||d77cf8b870.com^
+||datadoghq-browser-agent.com^
+||datadoghq.com^$domain=~docs.datadoghq.com
+||deadlinefunnel.com^$3p
+||decacopy.com^
+||delvenetworks.com^$3p,script
+||disqus.com^$3p
+||disquscdn.com^$3p
+||dmca.com^$3p
+||dmgmediaprivacy.co.uk^$3p
+||donorbox.org^$3p
+||dowjoneson.com^$3p
+! ||dropbox-dns.com$domain=~dropbox.com|~dropbox-dns.com
+! ||dropbox.com$domain=~dropbox.com|~dropbox-dns.com|~formswift.com
+||dropbox-dns.com^$3p,domain=~dropbox.com|~dropbox-dns.com|~formswift.com
+||dropbox.com^$3p,domain=~dropbox.com|~dropbox-dns.com|~formswift.com
+! ||dropboxusercontent.com$domain=~dropbox.com|~dropbox-dns.com|~uniquestream.net
+||drtuber.desi^$3p
+||duckduckgo.com^$3p,domain=~duckduckgo.com|~spreadprivacy.com
+||eagleapi.io^
+||emailsnow.info^
+||evidon.com^$3p
+||exosrv.com^$3p
+||fbot.me^$3p
+||feedgrabbr.com^$3p
+||flippback.com^$3p
+||forbes.com^$3p,domain=quora.com
+||freshworks.com^$3p
+||foxnews.com^$3p,domain=~foxnews.com
+||fundraiseup.com^$3p
+||future-fie-assets.co.uk^$3p
+||future-fie.co.uk^
+||future.net.uk^$3p,~script
+||futurecdn.net^$xhr
+||geniuslinkcdn.com^$3p
+||geo.cnbc.com^
+||geo.lovely-app.com^
+||geolocation.nexusmedia.workers.dev^
+||get-native.eu^$3p
+||getmetrical.com^$3p
+||getmulberry.com^$3p
+||getsentry.com^$3p
+||getsitecontrol.com^$3p
+||gleamjs.io^
+||gravatar.com^$domain=~gravatar.com
+||gravity-software.com^$3p
+||groupbycloud.com^$3p
+! ||guim.co.uk^$3p,script
+||hawk-assets.co.uk^
+||hawk-tech.co.uk^
+||hawksearch.com^$3p
+||hextom.com^$3p
+||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
+||hotjar-analytics.com^
+||hubspot.com^$3p
+||hudo.com^$inline-script
+||iheart.com^$all,domain=~iheart.com
+||incartupsell.com^$3p
+||influglue.com^$3p
+||inspectlet.com^$3p
+||inswebt.com^
+||intercom.com^$3p,domain=~koinly.io
+||ip.sp^
+||ipgeolocation.io^
+||iprom.net^$3p
+||ipromcloud.com^$3p
+||jetbluevacations.com^$3p
+||jetlore.com^$3p
+||js.partnerstack.com^$3p
+||js.testfreaks.com^$3p
+||judge.me^$3p
+||jwp*.com^$3p,~script,~media,~image
+||kme.si^$3p,~image
+||knowyourapps.com^$3p
+||kount.com^$3p
+||kount.net^$3p
+||kustomerapp.com^$3p
+||leadsdome.com^
+||letspin.io^$3p
+||limelight.com^$3p,script
+||list-manage.com^$3p
+||livechat.ivpn.net^
+||livenetlife.com^$3p
+||liveperson.net^$3p
+||lmaxdigital.io
+||loox.io^$3p
+||lowfruitsolutions.com^$3p
+||loyaltylion.net^$3p
+||lpsnmedia.net^$3p
+||lr-hv-in.com^$3p
+||lr-in.com^$3p
+||lura.live^$3p
+||mailchimp.com^$3p
+||marketingautomation.services^$3p
+||marketo.com^
+||maze.co^$3p
+||media.licdn.com^$domain=~licdn.com|~linkedin.com
+||medium.com^$3p,~script,~image
+||memberful.com^$3p
+||metrics.foursixty.com^
+||mgid.com^$3p
+||mimecast.com^$3p
+||moengage.com^$3p
+||montangop.top^
+||montiapm.com^$3p
+||moonpay.io^$all
+||mountain.com^$3p
+||msgstore.www.notion.so^$all
+||myanimelist.net^*/event/$image
+||nepremicnine.net^$3p
+||newsoveraudio.com^$3p
+||nfcube.com^$3p
+||nir.regmedia.co.uk^$3p
+||nitroapps.co^$3p
+||nmaib9.com^$3p
+||npttech.com^$3p
+||nsimg.net
+||ntv.io^$3p
+||nvidpn.com^$3p
+||oath.com^$3p
+||octaneai.com^$3p
+||ogvaruvlkdsm.com^
+||okendo.io^$3p
+||oko.net^$3p
+||olark.com^$3p
+||omnivirt.com^$3p
+||oneall.com^$3p
+||opta.net^
+||opumo.net^$3p
+||origin.com^$3p,domain=origin.com
+||outbrain.com^$3p
+||p-n.io^$3p
+||paht.tech^
+||paisly.com^$3p
+||paradox.ai^$all
+||paywall-prod.appspot.com^
+||paywall.theathletic.com^
+||piano.io$3p
+||pkmods.com$inline-script
+||pmcatalyst-ae.com^$3p
+||polyfill.io^$3p
+||popupmaker.com^$3p
+||pristopmedia.network^
+||pushance.com^$3p
+||qq.com^$3p
+||quantserve.com^$3p
+||readcomiconline.*/Ads/
+||readcomiconline.*/wp-includes/*/*.html$subdocument,1p
+||rebuyengine.com^$3p
+||recommendation-hybrid.wpdigital.net^$all
+||refer.bose.com^
+||rtyche.com^$3p
+||s.aolcdn.com/ads/$3p,script
+||salesforceliveagent.com^$3p
+||sandsiv.com^$3p
+||scroll.com^$3p
+||sdk.asapp.com^
+||sealsubscriptions.com^$3p
+||search.brave.com/api/feedback^
+||secomapp.com^$3p
+||secondego.com^$3p
+||securemetrics.apple.com^$3p
+||segment.com^
+||servebom.com^$3p
+||services.wikia.com^
+||share.qvcemail.com^
+||shutterstock.com^$3p
+||simplecast.com^$3p
+||sitebot.ai^$3p
+||skiocheck.com^$3p
+||slack.com/api/promo.banner^
+||slack.com/api/ublockworkaround^
+||smartfocus.com^$3p
+||smile.io^$3p
+||smind.com^$3p
+||smsbump.com^$3p
+||snapkit.com^$3p
+||sni.star.24ur.com.c.footprint.net^$media
+||soap2day.to^$3p
+||soapps.net^$3p
+||socialshopwave.com^$3p
+||spot.im^$3p
+||startpage.com/do/$image
+||startpage.com/english/$image
+||startpage.com/tst2/$image
+||storage.ko-fi.com^$3p
+||stkbl.app^$3p
+||streetmetrics.io^$3p
+||strike.fox.com^$3p
+||syndetics.com^$3p
+||taboola.com^$3p
+||tags.news.com.au^
+||talk.hyvor.com^$3p
+||tawk.to^$3p
+||teams.microsoft.com^$3p,domain=~microsoft.com|~office.com|~live.com
+||teletarget.ru^
+||thanhhd.com^$3p
+||themessagecloud.com^$3p
+||thunderhead.com^$3p
+||ti-media.net^$~stylesheet,~image
+||tinymce.com^$3p
+||tinypass.com^
+||titsx.com^$3p
+||tradingview.com^$3p
+||tripadvisor.com^$3p
+||trust-provider.com^
+||trustarc.com^$3p
+||truste.com^$3p
+||trustpilot.com^$3p
+||trustx.org^$3p
+||tsmedia.si^$3p
+||tsyndicate.com^$3p
+||turnto.com^$3p
+||typekit.net^
+||typography.com^$3p,~stylesheet,~xhr
+||ubembed.com^
+||upscore.com^$3p
+||urbanairship.com^$3p
+||viafoura.co^$3p
+||viafoura.net^$3p
+||vk.com^$3p,domain=~vk.me
+||vuukle.com^$3p
+||wibbitz.com^$3p
+||widgets.automizely.com^$3p
+||widgets.guidestar.org^
+||yahoo.com^$3p,~image,domain=~aol.*|~yahoo.com
+||yandex.ru^$3p,domain=~dzen.ru
+||yottaa.com^$3p
+||yottlyscript.com^$3p
+||slickstream.com^$3p,domain=~slickstream.com
+||sitescdn.net^$3p
+||addsearch.com^$3p
+9anime.*##+js(nosiif, (t))
+fmovies.*##+js(nosiif, try)
+!!! https://github.com/uBlockOrigin/uAssets/commit/9c48940838eb4bff98f2a1a9b9cba1b92c3c8c9a
+! ||tags.tiqcdn.com^
+||paykickstart.com^$3p
+||pressplay.io^$3p
+||convertkit.com^$3p
+||grow.me^$3p
+||getgobot.com^$3p
+||twitcount.com^$3p
+||launchpotato.com^$3p
+||doctify.com^$3p
+! https://camerareadycosmetics.com/
+||minmaxify.com^$3p
+||pwztag.com^$3p
+||beacon.kendall.ai^$3p
+||orderdeadline.com^$3p
+||soundestlink.com^$3p
+||thimatic-apps.com^$3p
+||revenuehunt.com^$3p
+||omnisnippet1.com$3p
+||freegifts.io^$3p
+
+! GENERAL ALLOWLIST
+! https://github.com/crssi/Firefox/blob/master/uBO-Unbreak.txt
+@@*/lwa/WebPages/LwaClient.aspx$subdocument
+@@*/saml/$subdocument
+@@/clarity-*.js$1p,script
+@@/share-link-$1p,xhr
+@@||a-msedge.net^$domain=bing.com
+@@||advertising.com^$1p
+@@||alexa.com^$1p
+@@||amzn.to^$1p
+@@||assets-jpcust.jwpsrv.com^$image
+@@||bing.com/maps^
+@@||bing.com/api/maps^
+@@||r.bing.com/rp^
+@@||th.bing.com^
+@@||cbsi.com/dist/optanon.js$script
+@@||cdn-apple.com^$domain=apple.com|icloud.com
+@@||consent.cookiebot.com^$script,domain=adjust.com
+@@||contextual.media.net^$script
+@@||dropboxstatic.com/*/social_icon$stylesheet,domain=dropbox.com
+@@||e.infogram.com/js/dist/embed.js$script
+@@||e.infogram.com^$subdocument
+@@||mailchimp.com^$3p,~image
+@@||omara.cdn-cnj.si^$script
+! @@||paypal.com^$subdocument,popup
+@@||play.vidyard.com^$subdocument,script
+@@||pov.spectrum.net^
+@@||secure.gravatar.com^$image,stylesheet
+@@||udimg.com^$1p
+@@||udimg.com^$domain=urbandictionary.com
+! https://github.com/yokoffing/filterlists/issues/98
+@@||use.typekit.net^$script,font
+
+! GOOGLE
+||accounts.google.com^$3p,domain=~youtube.com|~twitter.com|~x.com
+||ampcid.google.com^$important
+||contributor.google.com^$3p
+||doubleclickbygoogle.com^$3p
+||firebase.com^$3p
+||firebase.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||google-analytics.com^$3p,important
+||google.com/cse/cse.js^
+! ||google.com^$3p,domain=~abc.xyz|~blackdog.ie|~cbsnews.com|~chromium.org|~developer.android.com|~flippity.net|~graysky.app|~gstatic.com|~gptgo.ai|~nest.com|~oldgoogle.neocities.org|~translate.google.com|~youtube-nocookie.com|~youtube.com|~youtube.googleapis.com
+||google.com/shopping/merchantverse^$3p
+||googleadservices.com^$3p,important
+||googlesyndication.com^$important
+||googletagmanager.com^$important
+||googletagservices.com^$important
+! https://github.com/badmojr/1Hosts/issues/1227
+! ||jnn-pa.googleapis.com^$domain=~drive.google.com|~youtube.com
+||news.google.com^$3p
+! https://github.com/yokoffing/Betterfox/issues/323
+! ||play.google.com/log?$xmlhttprequest,important
+||play.google.com^$3p,domain=~graysky.app
+||scholar.google.com^$3p,domain=~google.com
+! ||youtube.com/error_204?^$xhr
+! ||youtube.com/youtubei/v1/log_event^$xhr
+@@||accounts.google.*/ServiceLogin$subdocument
+@@||apis.google.com^
+! @@||apis.google.com^$script,domain=content.googleapis.com|dropbox.com|pathbuilder2e.com
+@@||appspot.com^$subdocument,domain=cloud.google.com
+@@||blogger.*.google.com^$domain=blogspot.com
+@@||blogger.*.google.com^$subdocument
+@@||blogger.com/comment-iframe.$subdocument
+@@||consent.google.com^$subdocument
+@@||docs.google.com^$subdocument,domain=dropbox.com
+@@||drive.google.com^$image
+@@||google-analytics.com/analytics.js$script,domain=amainhobbies.com
+! @@||google.com/maps/$subdocument
+@@||google.com/recaptcha
+! @@||google.com/recaptcha/$subdocument
+! @@||google.com/recaptcha/api.js$script
+@@||google.com^$script,domain=youtube.com
+@@||google*.^$domain=youtube.com|youtube-nocookie.com
+@@||google.com/uds/*visualization$script,stylesheet
+@@||gstaticadssl.*.google.com^$font
+! @@||maps-api-ssl.google.com^$script,image
+! @@||maps.google.*/maps$script,image
+! @@||maps.googleapis.com/maps$script,image,xhr
+@@||mapsengine.google.com/map/embed$subdocument
+@@||youtube-ui.*.google.com^$subdocument,script
+@@||ytimg.*.google.com^$image
+@@||ytimg.com^$script
+! Fix sites that use built-in Google search
+! https://github.com/yokoffing/filterlists/issues/170
+@@||google.com/cse/static^
+@@||cse.google.com/cse^
+!@@||clients1.google.com^
+
+! FACEBOOK
+! Logins (maybe more)
+||connect.facebook.net^$3p,domain=~atlassolutions.com|~facebook.com|~facebook.de|~facebook.fr|~facebook.net|~fb.com|~fb.me|~fbcdn.net|~fbsbx.com|~friendfeed.com|~instagram.com|~internalfb.com|~messenger.com|~oculus.com|~whatsapp.com|~workplace.com
+||connect.facebook.com^$3p,domain=~atlassolutions.com|~facebook.com|~facebook.de|~facebook.fr|~facebook.net|~fb.com|~fb.me|~fbcdn.net|~fbsbx.com|~friendfeed.com|~instagram.com|~internalfb.com|~messenger.com|~oculus.com|~whatsapp.com|~workplace.com
+! Facebook Plugins (3rd-party embedded plugins)
+||facebook.com/plugins/$3p,domain=~atlassolutions.com|~facebook.com|~facebook.de|~facebook.fr|~facebook.net|~fb.com|~fb.me|~fbcdn.net|~fbsbx.com|~friendfeed.com|~instagram.com|~internalfb.com|~messenger.com|~oculus.com|~whatsapp.com|~workplace.com
+! ||fbcdn.net^$3p
+! @@||fbcdn.net^$3p,domain=facebook.com|instagram.com|messenger.com|workplace.com|oculus.com|oculusvr.com|oculusbrand.com|oculusforbusiness.com|onavo.com
+! @@||fbcdn.net^$image,media
+
+! INSTAGRAM
+||graph.facebook.com^$3p,domain=~atlassolutions.com|~facebook.com|~facebook.de|~facebook.fr|~facebook.net|~fb.com|~fb.me|~fbcdn.net|~fbsbx.com|~friendfeed.com|~instagram.com|~internalfb.com|~messenger.com|~oculus.com|~whatsapp.com|~workplace.com
+||graph.facebook.com/logging_client_events
+||graph.facebook.com/?ids=*&callback=$script,3p
+||graph.facebook.com/*/activities?access_token=&event=
+||graph.facebook.com/*?fields=supports_implicit_sdk_logging
+! ||graph.facebook.com^$domain=~facebook.com|~instagram.com
+! ||graph.instagram.com^$domain=~facebook.com|~instagram.com
+||instagram.com^$3p,~subdocument
+@@||instagram.com/p/$subdocument
+@@||instagram.com^$script
+@@||-instagram.*.facebook.com^$subdocument
+
+! TWITTER
+||api.twitter.com^$3p,domain=~x.com|~tweetdeck.com|~twitter.com|~twitter.jp
+||platform.twitter.com^$3p,domain=~x.com|~tweetdeck.com|~twitter.com|~twitter.jp
+||twitter.com^$3p,domain=~x.com
+||syndication.twitter.com^
+||t.co^$3p,domain=~x.com|~twitter.com
+!#if ext_ublock
+platform.twitter.com##+js(cookie-remover, /^/)
+! Attempt to use uBO to remove cookies caused by Twitter
+!#endif
+@@||platform.twitter.com/embed/$subdocument
+@@||platform.twitter.com/widgets/$subdocument
+@@||platform.twitter.com^$stylesheet,image,script
+@@||twimg.com^$image
+@@||twitter.com/i/videos/$subdocument
+@@||twitter.map.fastly.net^$domain=twitter.com
+! Breaks Twitter widget using Fanboy Annoyance
+! https://www.cnet.com/news/social-media/twitter-musk-news-timeline-riptwitter-trends-after-employees-resign/
+@@.twitterContainer
+
+! TIKTOK
+!||tiktok.com^$3p
+||ibytedtos.com^$3p,domain=~tiktok.com
+
+! LINKEDIN
+||licdn.com^$3p,domain=~linkedin.com|~lnkd.in
+||linkedin.com^$3p
+
+! PINTEREST
+||pinterest.com^$3p
+
+! TWITCH
+||twitch.tv^$3p,domain=~twitch.tv
+
+! DISCORD
+@@||cdn.discordapp.com^$image
+||discord.com^$3p,domain=~discohook.org|~scam.gay
+||discordapp.com^$3p,domain=~discohook.org|~discord.com|~discordpackage.com|~mee6.xyz|~scam.gay
+
+! 3rd-party Payment Vendors / "Buy Now, Pay Later":
+||global-e.com^$3p
+||static.rechargecdn.com^$3p
+! ||getcatch.com^$3p
+||js.getcatch.com^$3p
+||pay.google.com^$3p
+||payments-amazon.com^$3p
+||affirm.com$3p
+||afterpay.com^$3p
+||shoprunner.com^$3p
+||amazonpay.com^$3p
+||payments.amazon.com^$3p
+||sezzle.com^$3p
+||treat.xyz^$3p
+||klarna.com^$3p
+||klarnacdn.net^$3p
+||klarnaservices.com^$3p
+||preorder-now.herokuapp.com^$3p
+||razorpay.com^$3p,domain=~redtape.com
+@@||checkout.razorpay.com^
+||quadpay.com^$3p
+||shop.app^$3p
+||shopbonsai.ca^$3p
+||shopcircleapp.co^$3p
+||shopifycloud.com^$3p
+||shopifysvc.com^$3p
+! Shopify
+||juniphq.com^$3p
+||postscript.io^$3p
+||shoplift.ai$3p
+/AdditionalGoogleAnalyticsScriptSandbox
+/GooglePayButton
+/FacebookPayButton
+! /ShopPay
+!||stripe.com^$3p,domain=~curesarcoma.org|~koinly.io|~patreon.com|~nextdns.io|~controld.com|~quetext.com
+!||js.stripe.com^,domain=~curesarcoma.org|~koinly.io|~patreon.com|~nextdns.io|~controld.com|~quetext.com
+
+! https://satechi.net/products/dual-dock-stand-docking-station-with-nvme-ssd-enclosure/Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC80MDIwNzQ3NjA2NDM0NA==?queryID=fba5c590bd81e82f25714caf8c3407eb
+||buywithprime.amazon.com^$3p
+||amazon-omni-cdn.com^$3p
+||wisepops.net^$3p
+
+! Blocks Paypal and Express Checkouts using Shopify:
+! ||paypal.com^$3p,domain=~ebay.com|~paypal.com|~ticketmaster.com|~form.jotform.com
+! ||paypalobjects.com^$domain=~ebay.com|~paypal.com|~ticketmaster.com
+
+! Apple Pay
+! ||applepay.cdn-apple.com$domain=~apple.com|~icloud.com
+
+! 3p PAYMENT / LOGIN
+##shopify-payment-terms
+##.additional-checkout-buttons.grid__item
+! 3p sign-in buttons
+##.sign-in-google-btn
+##.google.primary.auth
+##.apple.primary.auth
+##.facebook-auth
+##.google-auth
+##._btn-google.social-button
+##._btn-apple.social-button
+##.afterpay__wrapper
+##.dynamic-checkout__buttons
+##.shopify-payment-button
+###googleContainer
+###apple-signin-button
+##.cl-socialButtons
+! Google sign-in on Indeed
+indeed.com##.icl-Card
+
+! BING
+||bing.com^$3p,domain=~bing.com|~login.live.com|~microsoft.com|~msn.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/126174
+||bing.com/fd/ls/lsp.aspx$badfilter
+@@||bing.com/fd/ls/GLinkPing.aspx?
+! Bing reverse image search broken by EL
+bing.com#@#a[href*="/aclick?ld="]
+bing.com##.ins_exp.vsp
+! https://github.com/uBlockOrigin/uAssets/issues/9093
+bing.com##:matches-path(~/shop) a[href*="/aclick?"]:not(.vsp_ads)
+! https://github.com/easylist/easylist/issues/7240
+!#if env_firefox
+bing.com##+js(nosiif, logQueue, 10000)
+!#endif
+! EP - needed for Bing rewards?
+@@||bing.com/rewardsapp/reportactivity?
+
+! Microsoft Outlook breakage
+@@||pipe.aria.microsoft.com^$domain=outlook.live.com|outlook.office.com
+@@||browser.events.data.microsoft.com^$domain=outlook.live.com|outlook.office.com
+
+! from https://github.com/crssi/Firefox/blob/master/uBO-Cosmetic.txt
+! EasyPrivacy
+/log?entry=$badfilter,domain=outlook.office.com
+/postlog?$badfilter,domain=outlook.office.com
+||bing.com/fd/ls/lsp.aspx$badfilter,domain=outlook.office.com
+||data.microsoft.com/OneCollector/$badfilter,domain=outlook.office.com
+||fp.measure.office.com^$badfilter,domain=outlook.office.com
+||microsoft.com/collector/$badfilter,domain=outlook.office.com
+||visualstudio.com/v*/track$3p,badfilter,domain=outlook.office.com
+||visualstudio.com/v2/track$3p,badfilter,domain=outlook.office.com
+! AdGuard Tracking Protection
+||dc.services.visualstudio.com/*/track$badfilter,domain=outlook.office.com
+||dc.services.visualstudio.com/v2/track$badfilter,domain=outlook.office.com
+||virtualearth.net/webservices/v*/loggingservice/loggingservice.svc/log?entry=$badfilter,domain=outlook.office.com
+
+! NYT
+! ||myaccount.nytimes.com^
+||messaging-notifications.api.nytimes.com^
+
+! HuffPost
+||mapi.huffpost.com^
+
+! WP
+||talk.washingtonpost.com^
+||washingtonpost.com/subscribe/
+||subscribe.washingtonpost.com^
+||washingtonpost.com/pwapiv2/$xhr,1p
+
+! AMAZON
+www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
+@@||amazon.*/*uedata$image,1p,badfilter
+
+! To access Mozilla reports
+||telemetry.mozilla.org^$badfilter
+
+! https://github.com/easylist/easylist/issues/16298
+||connatix.com/scripts^
+
+! https://connatix.com/advertisers
+||neverbounce.com^$3p
+
+! Outbrain
+||outbrain.com^$3p,domain=~sphere.com
+
+! Allow YouTube link redirect (Privacy Extended)
+@@||youtube.com/redirect?event=*q=http$document
+
+! https://www.vitalydesign.com/pages/contact-us
+||ip-api.com^$3p
+||marker.io^$3p
+||shoplift.ai$3p
+
+!#include antipaywall_filters_without_element_hiding.txt
+!#include click2load.txt
