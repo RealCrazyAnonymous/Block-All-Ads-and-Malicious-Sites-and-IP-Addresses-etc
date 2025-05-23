@@ -1,0 +1,763 @@
+﻿# AdBlock by Crazy Anonymous
+
+# Expires: 1 Day (Update Every Day)
+
+# If any issue, please email me (crazyanonymous@tuta.io)
+
+# date 5/23/2025
+# note 
+# abt
+
+# static 
+# dynamic
+# script
+# ads
+# pagead 
+# partnerads
+# hosts
+# Ads
+# Amazon
+advertising-api-eu.amazon.com
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com 
+advice-ads.s3.amazonaws.com 
+# Google Ads
+pagead2.googlesyndication.com 
+pagead2.googleadservices.com
+adservice.google.com
+afs.googlesyndication.com
+# Doubleclick.net
+stats.g.doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+# Adcolony
+ads30.adcolony.com
+adc3-launch.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+Media.net
+static.media.net
+media.net
+adservetx.media.net
+# Analytics
+# Google Analytics
+google-analytics.com
+ssl.google-analytics.com
+click.googleanalytics.com
+analytics.google.com
+# Hotjar
+adm.hotjar.com
+identify.hotjar.com
+insights.hotjar.com
+script.hotjar.com
+surveys.hotjar.com
+careers.hotjar.com
+events.hotjar.io
+# MouseFlow
+mouseflow.com
+cdn.mouseflow.com
+o2.mouseflow.com
+gtm.mouseflow.com
+api.mouseflow.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
+# FreshWorks
+freshmarketer.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+# Luckyorange
+luckyorange.com
+api.luckyorange.com
+realtime.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com 
+upload.luckyorange.net
+cs.luckyorange.net
+settings.luckyorange.net
+# Stats WP Plugin
+stats.wp.com
+# Error Trackers
+# Bugsnag
+sessions.bugsnag.com
+notify.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+# Sentry
+browser.sentry-cdn.com
+app.getsentry.com
+# Social Trackers
+
+# Facebook
+pixel.facebook.com
+an.facebook.com
+# Twitter
+:: static.ads-twitter.com
+ads-api.twitter.com
+# LinkedIn
+ads.linkedin.com 
+analytics.pointdrive.linkedin.com
+# Pinterest
+ads.pinterest.com
+log.pinterest.com
+analytics.pinterest.com
+trk.pinterest.com
+# Reddit
+events.redditmedia.com
+events.reddit.com
+# YouTube
+ads.youtube.com
+# TikTok
+log.byteoversea.com
+analytics.tiktok.com
+ads-api.tiktok.com
+business-api.tiktok.com
+analytics-sg.tiktok.com
+ads-sg.tiktok.com
+ads.tiktok.com
+# Mix
+# Yahoo
+analytics.yahoo.com
+geo.yahoo.com
+udc.yahoo.com
+analytics.query.yahoo.com
+ads.yahoo.com
+udcm.yahoo.com
+log.fc.yahoo.com
+partnerads.ysm.yahoo.com
+:gemini.yahoo.com
+adtech.yahooinc.com
+# Yandex
+adfstat.yandex.ru
+offerwall.yandex.net
+appmetrica.yandex.ru
+metrika.yandex.ru
+adfox.yandex.ru
+extmaps-api.yandex.net
+# Unity
+auction.unityads.unity3d.com
+webview.unityads.unity3d.com
+config.unityads.unity3d.com
+adserver.unityads.unity3d.com
+# OEMs
+# Realme
+iot-eu-logser.realme.com
+iot-logser.realme.com
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+# Xiaomi
+api.ad.xiaomi.com
+data.mistat.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+sdkconfig.ad.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+tracking.rus.miui.com
+# Oppo
+adsfs.oppomobile.com
+adx.ads.oppomobile.com
+ck.ads.oppomobile.com
+data.ads.oppomobile.com
+# Huawei
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
+grs.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+logbak.hicloud.com
+# OnePlus
+click.oneplus.cn
+open.oneplus.net
+# Samsung
+samsungads.com
+smetrics.samsung.com
+nmetrics.samsung.com
+samsung-com.112.2o7.net
+analytics-api.samsunghealthcn.com
+# Apple
+advertising.apple.com
+metrics.mzstatic.com
+metrics.icloud.com
+weather-analytics-events.apple.com
+books-analytics-events.apple.com
+notes-analytics-events.apple.com
+api-adservices.apple.com
+iadsdk.apple.com
+# TikTok
+ads-api.tiktok.com
+ads-sg.tiktok.com
+business-api.tiktok.com
+ads.tiktok.com
+# Pinterest Ads
+ads.pinterest.com
+analytics.pinterest.com
+widgets.pinterest.com
+# Ad Script
+ads.js
+pageads.js
+# Dynamic Ads
+d3ward.github.io.textads
+d3ward.github.io.adbox.banner_ads.adsbox
+*/pagead.js$domain=d3ward.github.io
+*/widget/ads.
+#Trackers
+udp://tracker.opentrackr.org:1337/announce
+
+http://tracker.opentrackr.org:1337/announce
+
+udp://open.demonii.com:1337/announce
+
+udp://open.stealth.si:80/announce
+
+udp://tracker.torrent.eu.org:451/announce
+
+udp://exodus.desync.com:6969/announce
+
+udp://tracker.skyts.net:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
+
+udp://open.free-tracker.ga:6969/announce
+
+udp://explodie.org:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
+
+http://www.torrentsnipe.info:2701/announce
+
+http://www.genesis-sp.org:2710/announce
+
+http://tracker810.xyz:11450/announce
+
+http://tracker.xiaoduola.xyz:6969/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker.sbsub.com:2710/announce
+
+http://tracker.lintk.me:2710/announce
+
+http://tracker.ipv6tracker.org:80/announce
+
+http://tracker.corpscorp.online:80/announce
+
+http://tracker.bz:80/announce
+
+http://t.jaekr.sh:6969/announce
+
+http://shubt.net:2710/announce
+
+http://share.hkg-fansub.info:80/announce.php
+
+http://retracker.spark-rostov.ru:80/announce
+
+http://open.trackerlist.xyz:80/announce
+
+http://home.yxgz.club:6969/announce
+
+http://highteahop.top:6960/announce
+
+http://finbytes.org:80/announce.php
+
+http://buny.uk:6969/announce
+
+http://bt1.xxxxbt.cc:6969/announce
+
+http://bt.poletracker.org:2710/announce
+
+http://0123456789nonexistent.com:80/announce
+
+udp://wepzone.net:6969/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://tracker2.dler.org:80/announce
+
+udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
+
+udp://tracker.srv00.com:6969/announce
+
+udp://tracker.qu.ax:6969/announce
+
+udp://tracker.ololosh.space:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.gigantino.net:6969/announce
+
+udp://tracker.fnix.net:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
+
+udp://tracker.darkness.services:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
+
+udp://t.overflow.biz:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://retracker.lanta.me:2710/announce
+
+udp://p4p.arenabg.com:1337/announce
+
+udp://opentracker.io:6969/announce
+
+udp://open.dstud.io:6969/announce
+
+udp://martin-gebhardt.eu:25/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://isk.richardsw.club:6969/announce
+
+udp://ipv4announce.sktorrent.eu:6969/announce
+
+udp://evan.im:6969/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+https://tracker.zhuqiy.top:443/announce
+
+https://tracker.yemekyedim.com:443/announce
+
+https://tracker.moeblog.cn:443/announce
+
+https://tracker.linvk.com:443/announce
+
+https://tracker.ghostchu-services.top:443/announce
+
+https://tracker.expli.top:443/announce
+
+https://tracker.bt4g.com:443/announce
+
+https://tr.zukizuki.org:443/announce
+
+https://tr.nyacat.pw:443/announce
+
+https://sparkle.ghostchu-services.top:443/announce
+
+http://wepzone.net:6969/announce
+
+http://tracker2.dler.org:80/announce
+
+http://tracker.zhuqiy.top:80/announce
+
+http://tracker.vanitycore.co:6969/announce
+
+http://tracker.renfei.net:8080/announce
+
+http://tracker.qu.ax:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
+
+http://tracker.moxing.party:6969/announce
+
+http://tracker.ghostchu-services.top:80/announce
+
+http://tracker.dmcomic.org:2710/announce
+
+http://tracker.dler.org:6969/announce
+
+http://tracker.dler.com:6969/announce
+
+http://tracker.darkness.services:6969/announce
+
+http://tracker.bt4g.com:2095/announce
+
+http://tracker.bt-hash.com:80/announce
+
+http://tracker.bittor.pw:1337/announce
+
+http://tr.nyacat.pw:80/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
+
+http://t.overflow.biz:6969/announce
+
+http://servandroidkino.ru:80/announce
+
+http://seeders-paradise.org:80/announce
+
+http://region.nl1.privex.cc:6969/announce
+
+http://p4p.arenabg.com:1337/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+http://0d.kebhana.mx:443/announce
+
+udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker.ddunlimited.net:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
+
+udp://ipv4.rer.lol:2710/announce
+
+udp://concen.org:6969/announce
+
+udp://bt.rer.lol:6969/announce
+
+udp://bt.rer.lol:2710/announce
+
+udp://bandito.byterunner.io:6969/announce
+
+https://tracker.pmman.tech:443/announce
+
+https://tracker.lilithraws.org:443/announce
+
+https://tracker.leechshield.link:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
+
+https://tracker.gcrenwp.top:443/announce
+
+http://tracker1.itzmx.com:8080/announce
+
+http://tracker.waaa.moe:6969/announce
+
+http://tracker.23794.top:6969/announce
+
+http://1337.abcvg.info:80/announce
+#Blacklist
+https://tr.highstar.shop:443/announce # detected by antivirus software
+http://btracker.top:11451/announce # detected by antivirus software
+https://tr.fuckbitcoin.xyz:443/announce # detected by antivirus software
+https://tracker.jiesen.life:8443/announce # detected by antivirus software
+http://p2p.0g.cx:6969/announce # detected by antivirus software
+http://bt-club.ws/announce # error
+http://open.touki.ru/announce.php # malfunction
+udp://anidex.moe:6969/announce # malfunction
+http://open.touki.ru/announce # malfunction
+http://torrentsmd.com:8080/announce # malfunction
+http://irrenhaus.dyndns.dk:80/announce.php # malfunction
+http://carbon-bonsai-621.appspot.com/announce # malfunction
+https://carbon-bonsai-621.appspot.com/announce # malfunction
+https://academic-p2p.appspot.com/announce # malfunction
+http://bt.okmp3.ru:2710/announce # fake seeds
+udp://tracker.breizh.pm:6969/announce # requested by sysadmin
+http://tracker.breizh.pm:6969/announce # requested by sysadmin
+http://tracker2.postman.i2p/announce.php # registered torrents
+http://ehtracker.org:80/1/announce # registered torrents
+http://www.megatorrents.kg:80/announce.php # registered torrents
+https://tracker.monikadesign.uk:443/announce # registered torrents
+http://bt.beatrice-raws.org:80/announce # registered torrents
+https://bt.beatrice-raws.org:443/announce # registered torrents
+http://anidex.moe:6969/announce # registered torrents
+http://bt.nnm-club.info:2710/announce # registered torrents
+http://bt02.nnm-club.cc:2710/announce # registered torrents
+http://bt02.nnm-club.info:2710/announce # registered torrents
+http://tracker.xfapi.top:7070/announce # registered torrents
+https://torrents.linuxmint.com:443/announce.php # registered torrents
+http://torrents.linuxmint.com:80/announce.php # registered torrents
+http://ed2k.vip:7070/announce # registered torrents
+http://tracker.ddunlimited.net:6969/announce # registered torrents
+http://tracker.linkomanija.org:2710/announce # registered torrents
+http://torrent.rus.ec:2710/announce # registered torrents
+http://tracker.shittyurl.org:80/announce # registered torrents
+https://tracker.shittyurl.org:443/announce # registered torrents
+http://announce.partis.si:80/announce # registered torrents
+http://tracker.xdvdz.com:2710/announce # registered torrents
+http://60-fps.org:80/bt/announce.php # registered torrents
+http://alltorrents.net:80/bt/announce.php # registered torrents
+http://beertracker.ml:80/announce # registered torrents
+http://btx.anifilm.tv:80/announce.php # registered torrents
+http://bt.ali213.net:8080/announce # registered torrents
+http://freerainbowtables.com:6969/announce # registered torrents
+https://tracker.acgnx.se:443/announce # registered torrents
+http://www.freerainbowtables.com:6969/announce # registered torrents
+http://www.legittorrents.info:80/announce.php # registered torrents
+http://bttracker.debian.org:6969/announce # registered torrents
+http://tracker.frozen-layer.net:6969/announce.php # registered torrents
+udp://git.vulnix.sh:6969/announce # registered torrents
+udp://tracker.vulnix.sh:6969/announce # registered torrents
+http://kaztorka.org:80/announce.php # registered torrents
+http://music-torrent.net:2710/announce # registered torrents
+http://mixfiend.com:6969/announce # registered torrents
+http://bt.unionpeer.org:777/announce # registered torrents
+http://www.tvnihon.com:6969/announce # registered torrents
+udp://tracker.tricitytorrents.com:2710/announce # registered torrents
+http://tracker.tricitytorrents.com:2710/announce # registered torrents
+https://torrent.ubuntu.com/announce # registered torrents
+http://tracker.gcvchp.com:2710/announce # registered torrents
+http://tracker.fdn.fr:6969/announce # registered torrents
+http://torrent.ubuntu.com:6969/announce # registered torrents
+http://tracker.acgnx.se:80/announce # registered torrents
+http://tracker.anirena.com:80/announce # registered torrents
+http://siambit.com/announce.php # registered torrents
+http://bt.edwardk.info:6969/announce # registered torrents
+http://xbtrutor.com:2710/announce # registered torrents
+http://datascene.net/announce.php # registered torrents
+http://deviloid.net:6969/announce # registered torrents
+http://elitezones.ro/announce.php # registered torrents
+http://tracker.frozen-layer.net:6969/announce # registered torrents
+http://opentracker.acgnx.se:80/announce # registered torrents
+http://sukebei.tracker.wf:8888/announce # registered torrents
+https://opentracker.acgnx.se:443/announce # registered torrents
+http://bt2.54new.com:8080/announce # registered torrents
+http://bt-tracker.gamexp.ru:2710/announce # registered torrents
+http://tracker.vraphim.com:6969/announce # registered torrents
+http://www.elitezones.ro/announce.php # registered torrents
+http://funfile.org:2710/announce # registered torrents
+http://potuk.com:2710/announce # registered torrents
+http://tehconnection.eu:2790/announce # registered torrents
+http://torrents-nn.cn:2710/announce # registered torrents
+http://tracker.baltracker.net:3390/announce # registered torrents
+http://tracker.funfile.org:2710/announce # registered torrents
+http://tracker.pussytorrents.org:3000/announce # registered torrents
+http://tracker.torrentleech.org:2710/announce # registered torrents
+http://www.bit-hdtv.com:2710/announce # registered torrents
+http://www.blackcats-games.net:2228/announce # registered torrents
+http://bt.beatrice-raws.org:80/announce # registered torrents
+http://nyaa.tracker.wf:7777/announce # registered torrents
+http://bt.hliang.com:2710/announce # registered torrents
+http://bt.zlofenix.org:81/announce # registered torrents
+http://hdreactor.org:2710/announce # registered torrents
+http://mixfiend.com/announce.php # registered torrents
+http://mvgroup.org:2710/announce # registered torrents
+http://tracker.36dm.com:2710/announce # registered torrents
+http://tracker.ali213.net:8080/announce # registered torrents
+http://tracker.mininova.org/announce # registered torrents
+http://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
+http://tracker.torrenty.org:6969/announce # registered torrents
+http://www.mvgroup.org:2710/announce # registered torrents
+udp://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
+http://anidex.moe:6969/announce # registered torrents
+http://www.tribalmixes.com/announce.php # registered torrents
+http://all4nothin.net/announce.php # registered torrents
+http://www.all4nothin.net/announce.php # registered torrents
+http://www.xwt-classics.net/announce.php # registered torrents
+http://big-boss-tracker.net/announce.php # registered torrents
+http://www.thevault.bz:2810/announce # registered torrents
+http://www.theplace.bz:2910/announce # registered torrents
+http://www.theoccult.bz:3010/announce # registered torrents
+http://www.thegeeks.bz:3210/announce # registered torrents
+http://tracker.theempire.bz:3110/announce # registered torrents
+http://a.leopard-raws.org:6969/announce # registered torrents
+http://bt1.archive.org:6969/announce # registered torrents
+http://bt2.archive.org:6969/announce # registered torrents
+http://torrent.arjlover.net:2710/announce # registered torrents
+http://tr.bangumi.moe:6969/announce # registered torrents
+http://tracker.tasvideos.org:6969/announce # registered torrents
+https://tr.bangumi.moe:9696/announce # registered torrents
+http://tracker.minglong.org:8080/announce # registered torrents
+http://torrent-team.net/announce.php # registered torrents
+http://www.shnflac.net/announce.php # registered torrents
+http://tracker.gigatorrents.ws:2710/announce # registered torrents
+http://tracker.torrentbytes.net/announce.php # registered torrents
+http://masters-tb.com/announce.php # registered torrents
+http://www.learnbits.me/announce.php # registered torrents
+http://bithq.org/announce.php # registered torrents
+http://torrentzilla.org/announce # registered torrents
+http://torrentzilla.org/announce.php # registered torrents
+http://blackz.ro/announce.php # registered torrents
+http://finbytes.org/announce.php # registered torrents
+http://mediaclub.tv/announce # registered torrents
+http://mediaclub.tv/announce.php # registered torrents
+http://metal.iplay.ro/announce.php # registered torrents
+http://milliontorrent.pl/announce.php # registered torrents
+http://proaudiotorrents.org/announce.php # registered torrents
+http://tc-boxing.com/announce.php # registered torrents
+http://www.bitseduce.com/announce.php # registered torrents
+http://www.biztorrents.com/announce.php # registered torrents
+http://www.thetradersden.org/forums/tracker/announce.php # registered torrents
+http://www.yuwabits.net/announce.php # registered torrents
+http://baibako.tv/announce # registered torrents
+http://bluebird-hd.org/announce.php # registered torrents
+http://data-bg.net/announce.php # registered torrents
+http://kinorun.com/announce.php # registered torrents
+http://tracker.tambovnet.org/announce.php # registered torrents
+http://uatracker.net/announce.php # registered torrents
+http://www.siambt.com/announce.php # registered torrents
+http://www.worldboxingvideoarchive.com/announce.php # registered torrents
+http://bt.edwardk.info:2710/announce # registered torrents
+http://bt.edwardk.info:4040/announce # registered torrents
+http://bt2.edwardk.info:2710/announce # registered torrents
+http://bt2.edwardk.info:4040/announce # registered torrents
+http://bt2.edwardk.info:6969/announce # registered torrents
+http://open.nyaatorrents.info:6544/announce # registered torrents
+http://open.lolicon.eu:7777/announce # registered torrents
+http://torrent.resonatingmedia.com:6969/announce # registered torrents
+https://torrent.ubuntu.com:443/announce # registered torrents
+http://tracker.dm258.cn:7070/announce # registered torrents
+http://open.touki.ru:80/announce.php # registered torrents
+http://bt.edwardk.info:6767/announce # registered torrents
+http://tracker.enitin.xyz:80/announce # redirects to https://tracker.enitin.xyz/announce
+http://opentrackr.org:1337/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+http://www.peckservers.com:9000/announce # duplicate of http://tracker.peckservers.com:9000/announce
+http://tracker.internetwarriors.net:1337/announce # duplicate of http://open.tracker.cl:1337/announce
+udp://tracker.internetwarriors.net:1337/announce # duplicate of udp://open.tracker.cl:1337/announce
+http://bt.edwardk.info:676/announce # duplicate of http://bt.edwardk.info:6767/announce
+http://bt.edwardk.info:63124/announce # duplicate of http://bt.edwardk.info:6767/announce
+http://bt.edwardk.info:12891/announce # duplicate of http://bt.edwardk.info:6767/announce
+https://tracker1.520.jp:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+http://y.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
+http://z.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
+udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
+udp://y.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
+udp://y.t-1.org:6969/announce # duplicate of udp://x.t-1.org:6969/announce
+udp://tk1.trackerservers.com:8080/announce # duplicate of udp://tracker2.itzmx.com:6961/announce
+udp://t.zerg.pw:1337/announce # duplicate of udp://t.zerg.pw:6969
+udp://t1.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
+udp://t2.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
+udp://t3.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
+udp://9.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2730/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2740/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2720/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2770/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2790/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2800/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2780/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2770/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2730/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2740/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2720/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2750/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2800/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2820/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2770/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2800/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2730/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2740/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2750/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2790/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2790/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2750/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2780/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2780/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2720/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2860/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2820/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2850/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2880/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2940/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2950/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2910/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2830/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://tracker.fatkhoala.org:13720/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15710/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15730/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15770/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15800/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker-de.ololosh.space:6969/announce # duplicate of udp://tracker.ololosh.space:6969/announce
+udp://tracker.dler.com:6969/announce # duplicate of udp://tracker.dler.org:6969/announce
+udp://tracker2.dler.com:80/announce # duplicate of udp://tracker2.dler.org:80/announce
+http://bz.tracker.bz:80/announce # duplicate of http://tracker.bz:80/announce
+http://openbittorrent.com:80/announce # duplicate of http://tracker.openbittorrent.com:80/announce
+udp://retracker.lanta-net.ru:2710/announce # duplicate of udp://tracker4.itzmx.com:2710/announce
+udp://openbittorrent.com:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce
+udp://tracker.openbittorrent.com:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce
+udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://sugoi.pomf.se:80/announce # duplicate of udp://tracker.pomf.se:80/announce
+http://tracker4.itzmx.com:6961/announce # duplicate of http://tracker4.itzmx.com:2710/announce
+http://tracker3.itzmx.com:8080/announce # duplicate of http://tracker3.itzmx.com:6961/announce
+udp://tracker.coppersurfer.tk:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
+http://tracker.electro-torrent.pl:80/announce # duplicate of http://tracker.torrentyorg.pl:80/announce
+udp://denis.stalker.upeer.me:1337/announce # duplicate of udp://denis.stalker.upeer.me:6969/announce
+https://tracker.torrentsnows.com:443/announce # registered torrents
+http://torrent.fedoraproject.org:6969/announce # registered torrents
+http://torrent.mp3quran.net:80/announce.php # registered torrents
+wss://peertube.cpy.re:443/tracker/socket # registered torrents
+http://bt.3dmgame.com:2710/announce # registered torrents
+http://bt.ali213.net:8000/announce # registered torrents
+http://tracker.ali213.net:8000/announce # registered torrents
+http://bt.firebit.org:2710/announce # registered torrents
+http://concen.org:6969/announce # registered torrents
+http://datascene.net:80/announce.php # registered torrents
+http://www.zone-torrent.net:80/announce.php # registered torrents
+http://tracker.kali.org:6969/announce # registered torrents
+http://tracker.etree.org:6969/announce # registered torrents
+udp://www.mvgroup.org:2710/announce # registered torrents
+http://www.megatorrents.kg:80/announce.php # registered torrents
+udp://torrents.artixlinux.org:6969/announce # registered torrents
+udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
+http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
+http://pow7.com:80/announce # malfunction issue #374
+udp://pow7.com:80/announce # malfunction issue #374
+http://atrack.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://t2.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://secure.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://t1.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://tracker.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://opentracker.acgnx.com:6869/announce # duplicate of http://tracker.acgnx.se:80/announce
+udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+http://tracker.skyts.cn:6969/announce # duplicate of http://open.tracker.ink:6969/announce & http://tracker.skyts.net:6969/announce
+udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.sbsub.com:2710/announce # duplicate of udp://retracker.lanta-net.ru:2710/announce
+http://tracker3.dler.org:2710/announce # duplicate of http://tracker.dler.org:6969/announce
+http://tracker4.dler.org:6969/announce # duplicate of http://tracker.dler.org:6969/announce
+udp://tracker7.dler.org:6969/announce # duplicate of udp://tracker6.dler.org:2710/announce
+https://t1.leech.ie:443/announce # deprecated by owner
+https://t2.leech.ie:443/announce # deprecated by owner
+https://t3.leech.ie:443/announce # deprecated by owner
+http://t1.leech.ie:80/announce # deprecated by owner
+http://t2.leech.ie:80/announce # deprecated by owner
+http://t3.leech.ie:80/announce # deprecated by owner
+wss://ws.peer.ooo:443/announce # deprecated by owner
+http://tracker.nighthawk.pw:4201/announce # duplicate of http://tracker.nighthawk.pw:2052/announce
+udp://tracker.nighthawk.pw:4201/announce # duplicate of udp://tracker.nighthawk.pw:2052/announce
+ws://tracker.nighthawk.pw:4201/announce # duplicate of ws://tracker.nighthawk.pw:2052/announce
+https://tracker1.520.jp:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://tracker1.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://tracker2.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+http://tracker.fansub.id:80/announce # duplicate of https://tracker.fansub.id:443/announce
+https://1337.abcvg.info:443/announce # duplicate of http://1337.abcvg.info:80/announce
+http://masters-tb.com:80/announce.php # registered torrents
+http://mixfiend.com:80/announce.php # registered torrents
+http://mvgforumtracker.mvgroup.org:80/tracker.php/announce # registered torrents
+http://bluebird-hd.org:80/announce.php # registered torrents
+http://torrent.unix-ag.uni-kl.de:80/announce # registered torrents
+http://torrents.hikarinokiseki.com:6969/announce # registered torrents
+http://tracker.tambovnet.org:80/announce.php # registered torrents
+http://tracker.torrentbytes.net:80/announce.php # registered torrents
+http://tracker.trancetraffic.com:80/announce.php # registered torrents
+http://www.mvgroup.org:80/tracker.php/announce # registered torrents
+http://t.acg.rip:6699/announce # registered torrents
+http://www.shnflac.net:80/announce.php # registered torrents
+http://www.tribalmixes.com:80/announce.php # registered torrents
+http://www.worldboxingvideoarchive.com:80/announce.php # registered torrents
+http://www.xwt-classics.net:80/announce.php # registered torrents
+http://xtremewrestlingtorrents.net:80/announce.php # registered torrents
+http://proaudiotorrents.org:80/announce.php # registered torrents
+http://tracker.frozen-layer.com:6969/announce # registered torrents
+https://t.btcland.xyz:443/announce # detected as suspicious
+https://tracker.lilithraws.cf:443/announce # duplicate of https://tracker.lilithraws.org:443/announce
+udp://www.torrent.eu.org:451/announce # duplicate of udp://tracker.torrent.eu.org:451/announce
+https://trackers.mlsub.net:443/announce # duplicate of https://tracker.mlsub.net:443/announce
