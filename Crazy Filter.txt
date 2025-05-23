@@ -30,6 +30,10 @@ https://ads.pinterest.com
 https://ads.reddit.com
 https://ads.youtube.com
 https://ads.tiktok.com
+pagead2.googlesyndication.com
+stats.g.doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
 ||d3ward.github.io##.adbox.banner_ads.adsbox
 ||d3ward.github.io##.textads
 ||/pagead.js$domain=d3ward.github.io
