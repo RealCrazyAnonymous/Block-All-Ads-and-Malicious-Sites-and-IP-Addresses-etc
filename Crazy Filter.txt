@@ -30,7 +30,6 @@ https://ads.pinterest.com
 https://ads.reddit.com
 https://ads.youtube.com
 https://ads.tiktok.com
-
 ||d3ward.github.io##.adbox.banner_ads.adsbox
 ||d3ward.github.io##.textads
 ||/pagead.js$domain=d3ward.github.io
