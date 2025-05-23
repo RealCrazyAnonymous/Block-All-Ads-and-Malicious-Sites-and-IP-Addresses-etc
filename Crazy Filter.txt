@@ -17,11 +17,11 @@
 # hosts
 # Ads
 # AdBlocking - PNG
-abptestpages.org/testfiles/blocking/full-path.png
-testfiles/blocking/partial-path
-testfiles/blocking/wildcard/*/wildcard.png
-testfiles/blocking/dynamic.png
-subdomain.abptestpages.org/testfiles/blocking/subdomain.png
+||abptestpages.org/testfiles/blocking/full-path.png
+/testfiles/blocking/partial-path/
+/testfiles/blocking/wildcard/*/wildcard.png
+/testfiles/blocking/dynamic.png
+||subdomain.abptestpages.org/testfiles/blocking/subdomain.png
 # Amazon
 advertising-api-eu.amazon.com
 adtago.s3.amazonaws.com
