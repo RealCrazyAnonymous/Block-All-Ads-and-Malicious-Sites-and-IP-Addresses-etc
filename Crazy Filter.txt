@@ -19,6 +19,8 @@
 #AdBlock 3
 d3ward.github.io##.adbox.banner_ads.adsbox
 d3ward.github.io##.textads
+/pagead.js$domain=d3ward.github.io
+/widget/ads.
 static.ads-twitter.com
 # AdBlocking - PNG
 ||abptestpages.org/testfiles/blocking/full-path.png
