@@ -103,6 +103,8 @@ adblockplus-icon-colour-web.svg$third-party
 abb-logo.png$~third-party
 abptestpages.org##.testcase-circ-anoniframe-docwrite
 # Ads-Trackers-Blocker
+d3ward.github.io##.adbox.banner_ads.adsbox
+d3ward.github.io##.textads
 0.fanonimka124.servebbs.org
 0.haurichka183ip.servebbs.org
 0.izvivnite.servebbs.org
