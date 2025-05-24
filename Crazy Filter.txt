@@ -16,6 +16,11 @@
 # partnerads
 # hosts
 # Ads
+# Block-Scams-Phishing
+yarn add:blocklist crypto-phishing-site.tld
+yarn add:allowlist legitimate-site.tld
+addDomains(config, "blocklist", ["crypto-phishing-site.tld"]);
+addDomains(config, "allowlist", ["legitimate-site.tld"]);
 # Anti-Spyware-Windows-PC
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0001.dc-msedge.net
