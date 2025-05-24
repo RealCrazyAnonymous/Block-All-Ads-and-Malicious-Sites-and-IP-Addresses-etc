@@ -4,7 +4,7 @@
 
 # If any issue, please email me (crazyanonymous@tuta.io)
 
-# date 5/23/2025
+# date 5/24/2025
 # note 
 # abt
 
@@ -15,6 +15,93 @@
 # pagead 
 # partnerads
 # hosts
+# Targets
+abptestpages.org###eh-id
+abptestpages.org##div[id='{{eh-id}}']
+abptestpages.org##.eh-class
+abptestpages.org##.testcase-area > .eh-descendant
+abptestpages.org##.testcase-examplecontent + .eh-sibling
+abptestpages.org##div[height="100"][width="100"]
+abptestpages.org##div[href="http://testcase-attribute.com/"]
+abptestpages.org##div[style="width: 200px;"]
+abptestpages.org##div[href^="http://testcase-startswith.com/"]
+abptestpages.org##div[style^="width: 201px;"]
+abptestpages.org##div[style$="width: 202px;"]
+abptestpages.org##div[style*="width: 203px;"]
+abptestpages.org#?#div:-abp-properties(width: 213px)
+abptestpages.org#?#div:-abp-has(>div>span.ehe-abp-has)
+abptestpages.org#?#div:has(>div>span.ehe-has)
+abptestpages.org#?#span:-abp-contains(ehe-contains-target)
+abptestpages.org#?#span:xpath(//*[@id="basic-xpath-usage-fail"])
+abptestpages.org#?#span:xpath(//*[@id="basic-xpath-usage-fail"])
+abptestpages.org#?#span:has-text(ehe-has-text)
+abptestpages.org#?#div:-abp-has(> div:-abp-properties(width: 214px))
+abptestpages.org#?#div:-abp-properties(WiDtH: 215px)
+abptestpages.org#?#.ehe-wildcard:-abp-properties(cursor:*)
+abptestpages.org#?#div:-abp-properties(/width: 12[1-5]px;/)
+abptestpages.org#?#div > div:-abp-contains(/ehe-containsregex\d/)
+abptestpages.org#?#input
+abptestpages.org#?#aside
+abptestpages.org#?#.ehei-properties:not(:-abp-properties(width: 238px))
+abptestpages.org#?#.ehei-has:not(:-abp-has(span.ehei-has-not-hide))
+abptestpages.org#?#.ehei-contains:not(span:-abp-contains(example-content))
+abptestpages.org#?#.ehei-chained-parent:not(:-abp-has(> div:-abp-properties(width: 198px)))
+abptestpages.org#?#.ehei-case:not(:-abp-properties(WiDtH: 209px))
+abptestpages.org#?#.ehei-wildcard:not(:-abp-properties(cursor:*))
+abptestpages.org#?#.ehei-regex:not(:-abp-properties(/width: 11[1-5]px;/))
+abptestpages.org#?#.ehei-contains-regex:not(span:-abp-contains(/example-contentregex\d/))
+abptestpages.org###remove-id {remove: true;}
+abptestpages.org##div[id='{{remove-id}}'] {remove: true;}
+abptestpages.org##.remove-class {remove: true;}
+abptestpages.org##.testcase-area > .remove-descendant {remove: true;}
+abptestpages.org##.testcase-examplecontent + .remove-sibling {remove: true;}
+abptestpages.org##div[height="40"][width="40"] {remove: true;}
+abptestpages.org##div[href="http://testcase-attribute-remove.com/"] {remove: true;}
+abptestpages.org##div[style="width: 42px;"] {remove: true;}
+abptestpages.org##div[href^="http://testcase-startswith-remove.com/"] {remove: true;}
+abptestpages.org##div[style^="width: 43px;"] {remove: true;}
+abptestpages.org##div[style$="width: 44px;"] {remove: true;}
+abptestpages.org##div[style*="width: 45px;"] {remove: true;}
+abptestpages.org#?#div:-abp-properties(width: 46px) {remove: true;}
+abptestpages.org#?#div:-abp-has(>div>span.remove-abp-has) {remove: true;}
+abptestpages.org#?#div:has(>div>span.remove-has) {remove: true;}
+abptestpages.org#?#span:-abp-contains(remove-contains-target) {remove: true;}
+abptestpages.org#?#span:xpath(//*[@id="basic-xpath-usage-with-remove-fail"]) {remove: true;}
+abptestpages.org#?#span:has-text(remove-has-text) {remove: true;}
+abptestpages.org#?#div:-abp-has(> div:-abp-properties(width: 47px)) {remove: true;}
+abptestpages.org#?#div:-abp-properties(WiDtH: 48px) {remove: true;}
+abptestpages.org#?#.remove-wildcard:-abp-properties(cursor:*) {remove: true;}
+abptestpages.org#?#div:-abp-properties(/width: 13[1-5]px;/) {remove: true;}
+abptestpages.org#?#div > div:-abp-contains(/remove-containsregex\d/) {remove: true;}
+abptestpages.org#?##input-remove {remove: true;}
+abptestpages.org#?#.removei-properties:not(:-abp-properties(width: 137px)) {remove: true;}
+abptestpages.org#?#.removei-has:not(:-abp-has(span.removei-has-not-hide)) {remove: true;}
+abptestpages.org#?#.removei-contains:not(span:-abp-contains(example-content)) {remove: true;}
+abptestpages.org#?#.removei-chained-parent:not(:-abp-has(> div:-abp-properties(width: 138px))) {remove: true;}
+abptestpages.org#?#.removei-case:not(:-abp-properties(WiDtH: 139px)) {remove: true;}
+abptestpages.org#?#.removei-wildcard:not(:-abp-properties(cursor:*)) {remove: true;}
+abptestpages.org#?#.removei-regex:not(:-abp-properties(/width: 14[1-5]px;/)) {remove: true;}
+abptestpages.org#?#.removei-contains-regex:not(span:-abp-contains(/example-contentregex\d/)) {remove: true;}
+||abptestpages.org/testfiles/popup/link.html^$popup
+||abptestpages.org/testfiles/popup/script-tab.html^$popup
+||abptestpages.org/testfiles/popup/script-window.html^$popup
+||abptestpages.org/testfiles/popup_exception/link.html^$popup
+@@||abptestpages.org/testfiles/popup_exception/link.html^$popup
+||abptestpages.org/testfiles/popup_exception/script-tab.html^$popup
+@@||abptestpages.org/testfiles/popup_exception/script-tab.html^$popup
+||abptestpages.org/testfiles/popup_exception/script-window.html^$popup
+@@||abptestpages.org/testfiles/popup_exception/script-window.html^$popup
+abptestpages.*##div[style*="width: 203px;"]
+abptestpages.*###eh-id
+abptestpages.*##div[height="100"][width="100"]
+abptestpages.*#?#div:-abp-properties(width: 230px)
+abptestpages.*#?#div:-abp-has(>div>span.ehe-abp-has)
+abptestpages.*#?#div:-abp-has(> div:-abp-properties(width: 231px))
+abptestpages.*#?#.ehe-wildcard:-abp-properties(font-weight:*)
+abptestpages.*#?#div > div:-abp-contains(ehe-containsregex)
+adblockplus-icon-colour-web.svg$third-party
+abb-logo.png$~third-party
+abptestpages.org##.testcase-circ-anoniframe-docwrite
 # Ads-Trackers-Blocker
 0.fanonimka124.servebbs.org
 0.haurichka183ip.servebbs.org
