@@ -17,12 +17,12 @@
 # hosts
 # Ads
 # Block Trackers
-https://googletagmanager.com
-https://getclicky.com
-https://dwin1.com
-https://google-analytics.com
-https://fastly-insights.com
-https://jsdelivr.net
+googletagmanager.com
+getclicky.com
+dwin1.com
+google-analytics.com
+fastly-insights.com
+jsdelivr.net
 # AdBlock 3
 https://pagead2.googlesyndication.com
 https://ads.google.com
