@@ -16,7 +16,11 @@
 # partnerads
 # hosts
 # Ads
-#AdBlock 3
+# Block Trackers
+https://googletagmanager.com
+https://getclicky.com
+https://dwin1.com
+# AdBlock 3
 https://pagead2.googlesyndication.com
 https://ads.google.com
 https://ad.doubleclick.net
