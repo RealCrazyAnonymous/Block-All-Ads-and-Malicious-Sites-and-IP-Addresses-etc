@@ -20,6 +20,9 @@
 https://googletagmanager.com
 https://getclicky.com
 https://dwin1.com
+https://google-analytics.com
+https://fastly-insights.com
+https://jsdelivr.net
 # AdBlock 3
 https://pagead2.googlesyndication.com
 https://ads.google.com
