@@ -16,7 +16,7 @@
 # partnerads
 # hosts
 # Ads
-# Anti-Spyware
+# Anti-Spyware-Windows-PC
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0001.dc-msedge.net
 0.0.0.0 a-0002.a-msedge.net
